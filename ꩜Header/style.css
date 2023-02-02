@@ -14,11 +14,13 @@ body {
 
 .site-header{
     position: relative;
+    margin: 10px 10px;
 
 }
 .container {
     background-color: rgb(0, 0, 0);
-    border: 5px solid #ba260c;
+    border: 9px solid #ba260c;
+    border-radius: 50px;
     display: flex;
 }
                          /*logo*/
